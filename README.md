@@ -1,5 +1,3 @@
 # godaddy_scripts
 
-Deepthi test
-
-Sabaresh
+Selenium scripts for GoDaddy Login.
